@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reestora-react-cart/static/css/main.d3960174.chunk.css",
+    "main.js": "/reestora-react-cart/static/js/main.46258824.chunk.js",
+    "main.js.map": "/reestora-react-cart/static/js/main.46258824.chunk.js.map",
+    "runtime~main.js": "/reestora-react-cart/static/js/runtime~main.3e547d17.js",
+    "runtime~main.js.map": "/reestora-react-cart/static/js/runtime~main.3e547d17.js.map",
+    "static/js/2.8f58997b.chunk.js": "/reestora-react-cart/static/js/2.8f58997b.chunk.js",
+    "static/js/2.8f58997b.chunk.js.map": "/reestora-react-cart/static/js/2.8f58997b.chunk.js.map",
+    "index.html": "/reestora-react-cart/index.html",
+    "precache-manifest.8fcc6b5f6050c5365e11c0a8c3f09520.js": "/reestora-react-cart/precache-manifest.8fcc6b5f6050c5365e11c0a8c3f09520.js",
+    "service-worker.js": "/reestora-react-cart/service-worker.js",
+    "static/css/main.d3960174.chunk.css.map": "/reestora-react-cart/static/css/main.d3960174.chunk.css.map",
+    "static/media/Item1.jpg": "/reestora-react-cart/static/media/Item1.37a9b420.jpg",
+    "static/media/Item2.jpg": "/reestora-react-cart/static/media/Item2.346557c3.jpg",
+    "static/media/Item3.jpg": "/reestora-react-cart/static/media/Item3.03ac90e2.jpg",
+    "static/media/Item4.jpg": "/reestora-react-cart/static/media/Item4.96c6f156.jpg",
+    "static/media/Item5.jpg": "/reestora-react-cart/static/media/Item5.b62273c8.jpg",
+    "static/media/Item6.jpg": "/reestora-react-cart/static/media/Item6.03ac90e2.jpg",
+    "static/media/index.css": "/reestora-react-cart/static/media/header.a90bae4f.jpg"
+  }
+}
