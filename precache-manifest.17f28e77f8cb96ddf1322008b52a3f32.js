@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e80c278f605ab0f634f34d020dde1b69",
+    "revision": "4a689d09eee06bd3e07e8731097c0b2d",
     "url": "/reestora-react-cart/index.html"
   },
   {
-    "revision": "a1ca7312802aaf110ca7",
+    "revision": "a1e9baff7b90f04d65f3",
     "url": "/reestora-react-cart/static/css/main.d3960174.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reestora-react-cart/static/js/2.8f58997b.chunk.js"
   },
   {
-    "revision": "a1ca7312802aaf110ca7",
-    "url": "/reestora-react-cart/static/js/main.46258824.chunk.js"
+    "revision": "a1e9baff7b90f04d65f3",
+    "url": "/reestora-react-cart/static/js/main.d2baa3ce.chunk.js"
   },
   {
     "revision": "2f2b2f33e30a714cafc9",
